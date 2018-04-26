@@ -16,4 +16,4 @@ TypewriterJS/
   /typewriter.js
 </pre>
 
-Copyright (c) 2017 Alexander Fish.
+Copyright (c) 2018 Alexander Fish.
