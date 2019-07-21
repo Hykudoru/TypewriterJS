@@ -1,5 +1,5 @@
 # Typewriter
-Typewriter is a TypeScript/JavaScript plugin that can take a string of text and output each character on the screen at desired intervals to simulate human typing.
+A JavaScript plugin that simulates human typing behaviour by reading a string of text and outputing each character to the screen at specific intervals.
 
 Originally written in Typescript version ~2.0
 
